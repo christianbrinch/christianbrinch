@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I have a background in astrophysics but I am currently working as an epidemiologist on antimicrobial resistance surveilance in urban wastewater.
+
+I have multiple bioinformatics projects going on, including a Bayesian read mapping tool for metagenomic data.
+
+My primary programming language is Python, but I am fluent in C/C++ and Fortran too. I am also learning Rust, Go, and 6502 assembler. 😄
+
 <!--
 **christianbrinch/christianbrinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
